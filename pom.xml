@@ -89,6 +89,12 @@
             <version>8.0.25</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.5.4</version>
+        </dependency>
+
 
     </dependencies>
 
